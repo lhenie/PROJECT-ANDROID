@@ -1,0 +1,303 @@
+08-01 14:14:30.923  8632  8654 I TestRunner: started: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
+08-01 14:14:30.929  8632  8654 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-01 14:14:30.932   512  5493 D EGL_emulation: eglMakeCurrent: 0xbc00bbc0: ver 2 0 (tinfo 0xba6fd1b0) (first time)
+08-01 14:14:30.939   512   532 D EventSequenceValidator: Transition from INTENT_FAILED to INTENT_STARTED
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.946   512  3717 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.954   512   532 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+08-01 14:14:30.954  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8 in: PRE_ON_CREATE
+08-01 14:14:30.954  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8
+08-01 14:14:30.965   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+08-01 14:14:30.966  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8 in: CREATED
+08-01 14:14:30.966  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8
+08-01 14:14:30.968  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8 in: STARTED
+08-01 14:14:30.968  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8
+08-01 14:14:30.976  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8 in: RESUMED
+08-01 14:14:30.976  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8
+08-01 14:14:30.981  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8 in: PAUSED
+08-01 14:14:30.981  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.982   512   525 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.983   512   525 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:30.990  8632  8632 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@5f4dc12 in: PRE_ON_CREATE
+08-01 14:14:30.990  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-01 14:14:31.009  8632  8632 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@5f4dc12 in: CREATED
+08-01 14:14:31.009  8632  8632 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.VerticalListActivity@5f4dc12
+08-01 14:14:31.010  8632  8632 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@5f4dc12 in: STARTED
+08-01 14:14:31.010  8632  8632 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.VerticalListActivity@5f4dc12
+08-01 14:14:31.011  8632  8632 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@5f4dc12 in: RESUMED
+08-01 14:14:31.011  8632  8632 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.VerticalListActivity@5f4dc12
+08-01 14:14:31.011   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f6c9d000 0x3f7486000]
+08-01 14:14:31.032   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f47e9000 0x3f4fd2000]
+08-01 14:14:31.039   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f64b4000 0x3f6c9d000]
+08-01 14:14:31.044   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f7486000 0x3f7c6f000]
+08-01 14:14:31.070   512   538 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.dogglers/1/com.example.dogglers.VerticalListActivity/compiled_traces/compiled_trace.pb doesn't exist
+08-01 14:14:31.070   512   532 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+08-01 14:14:31.070   512   538 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +130ms
+08-01 14:14:31.075  8632  8632 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+08-01 14:14:31.085  1371  8272 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+08-01 14:14:31.095  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8 in: STOPPED
+08-01 14:14:31.095  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8
+08-01 14:14:31.102  8632  8632 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Tzeitel"
+08-01 14:14:31.103  1371  2068 W SearchServiceCore: Abort, client detached.
+08-01 14:14:31.110  8632  8632 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "7"
+08-01 14:14:31.110  8632  8632 E ViewAssertions: '(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)' check could not be performed because view 'an instance of android.widget.TextView and view.getText() with or without transformation to match: is "7"' was not found.
+08-01 14:14:31.117   512   532 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+08-01 14:14:31.121  8632  8632 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@5f4dc12 in: PAUSED
+08-01 14:14:31.122  8632  8632 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.VerticalListActivity@5f4dc12
+08-01 14:14:31.124   512   532 D EventSequenceValidator: Transition from INTENT_STARTED to INTENT_FAILED
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.125   512  3717 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.126   512  3717 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.132  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e in: PRE_ON_CREATE
+08-01 14:14:31.132  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e
+08-01 14:14:31.136  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e in: CREATED
+08-01 14:14:31.137  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e
+08-01 14:14:31.138  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e in: STARTED
+08-01 14:14:31.138  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e
+08-01 14:14:31.140  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e in: RESUMED
+08-01 14:14:31.140  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e
+08-01 14:14:31.154   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f8fb0000 0x3f9799000]
+08-01 14:14:31.157   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f9799000 0x3f9f82000]
+08-01 14:14:31.161   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f9f82000 0x3fa76b000]
+08-01 14:14:31.169   512   538 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +51ms
+08-01 14:14:31.179   512   532 D EventSequenceValidator: Transition from INTENT_FAILED to INTENT_STARTED
+08-01 14:14:31.183  8632  8632 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@5f4dc12 in: STOPPED
+08-01 14:14:31.183  8632  8632 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.VerticalListActivity@5f4dc12
+08-01 14:14:31.184  8632  8632 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@5f4dc12 in: DESTROYED
+08-01 14:14:31.184  8632  8632 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-01 14:14:31.185   512   532 D EventSequenceValidator: Transition from INTENT_STARTED to INTENT_FAILED
+08-01 14:14:31.193  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e in: PAUSED
+08-01 14:14:31.193  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e
+08-01 14:14:31.194   512   525 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.194   512   525 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.194   512   525 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.195   512   525 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.198  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8 in: DESTROYED
+08-01 14:14:31.198  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@71c6dc8
+08-01 14:14:31.203  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7 in: PRE_ON_CREATE
+08-01 14:14:31.203  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7
+08-01 14:14:31.210  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7 in: CREATED
+08-01 14:14:31.210  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7
+08-01 14:14:31.212  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7 in: STARTED
+08-01 14:14:31.212  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7
+08-01 14:14:31.213  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7 in: RESUMED
+08-01 14:14:31.213  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7
+08-01 14:14:31.231   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f64b4000 0x3f6c9d000]
+08-01 14:14:31.239   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f7486000 0x3f7c6f000]
+08-01 14:14:31.247   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+08-01 14:14:31.251   512   538 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +71ms
+08-01 14:14:31.260   311   311 D goldfish-address-space: claimShared: Ask to claim region [0x3f47e9000 0x3f4cf9000]
+08-01 14:14:31.273  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e in: STOPPED
+08-01 14:14:31.274  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e
+08-01 14:14:31.275  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e in: DESTROYED
+08-01 14:14:31.275  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5db398e
+08-01 14:14:31.279   512  5493 D HostConnection: HostConnection::get() New Host Connection established 0xbc010000, tid 5493
+08-01 14:14:31.283  8632  8632 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7 in: PAUSED
+08-01 14:14:31.283  8632  8632 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@a87eba7
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.284   512  1696 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.285   512  1696 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.285   512  1696 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.285   512  1696 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.285   512  1696 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+08-01 14:14:31.287  8632  8654 E TestRunner: failed: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
+08-01 14:14:31.287   512  5493 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+08-01 14:14:31.287  8632  8654 E TestRunner: ----- begin exception -----
+08-01 14:14:31.287   512  5493 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-01 14:14:31.287  8632  8654 E TestRunner: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "7"
+08-01 14:14:31.287  8632  8654 E TestRunner:
+08-01 14:14:31.287  8632  8654 E TestRunner: View Hierarchy:
+08-01 14:14:31.287  8632  8654 E TestRunner: +>DecorView{id=-1, visibility=VISIBLE, width=1080, height=1920, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+08-01 14:14:31.287  8632  8654 E TestRunner:   fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+08-01 14:14:31.287  8632  8654 E TestRunner:   pfl=FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+08-01 14:14:31.287  8632  8654 E TestRunner:   fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=1794, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@ef197c9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +-->ViewStub{id=16908719, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@7930ece, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=1731, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@7114fc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=63.0, child-count=1}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--->ActionBarOverlayLayout{id=2131230866, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=1731, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@16d0e0b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=1584, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@cff7701, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=147.0, child-count=1}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +----->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=1584, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@6dc7fe7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +------>RecyclerView{id=2131231206, res-name=vertical_recycler_view, visibility=VISIBLE, width=1080, height=1584, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@fe73383, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=1038, height=721, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@d930539, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=21.0, is-checked=false, child-count=1}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1038, height=721, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@f03dd8a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=imageView, desc=Dogglers, visibility=VISIBLE, width=1038, height=509, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@4e18ffb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231169, res-name=textName, visibility=VISIBLE, width=164, height=113, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@50af818, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=530.0, text=Tzeitel, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231166, res-name=textAge, visibility=VISIBLE, width=125, height=78, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@7d32271, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=643.0, text=Age: 7, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231168, res-name=textHobbies, visibility=VISIBLE, width=337, height=51, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@dca4856, tag=null, root-is-layout-requested=false, has-input-connection=false, x=680.0, y=643.0, text=Hobbies: sunbathing, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=1038, height=721, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@dc37dc4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=784.0, is-checked=false, child-count=1}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1038, height=721, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4e2aea9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=imageView, desc=Dogglers, visibility=VISIBLE, width=1038, height=509, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@5720c2e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231169, res-name=textName, visibility=VISIBLE, width=134, height=113, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@ad963cf, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=530.0, text=Leroy, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231166, res-name=textAge, visibility=VISIBLE, width=125, height=78, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@c12c15c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=643.0, text=Age: 4, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231168, res-name=textHobbies, visibility=VISIBLE, width=633, height=51, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@40e8c65, tag=null, root-is-layout-requested=false, has-input-connection=false, x=384.0, y=643.0, text=Hobbies: sleeping in dangerous places, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=1038, height=721, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.RecyclerView$LayoutParams@326deb, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=1547.0, is-checked=false, child-count=1}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=1038, height=721, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@263dff4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=imageView, desc=Dogglers, visibility=VISIBLE, width=1038, height=509, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d7ae31d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231169, res-name=textName, visibility=VISIBLE, width=180, height=113, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@3f3b992, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=530.0, text=Frankie, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231166, res-name=textAge, visibility=VISIBLE, width=125, height=78, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@a3caf63, tag=null, root-is-layout-requested=false, has-input-connection=false, x=21.0, y=643.0, text=Age: 2, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +--------->MaterialTextView{id=2131231168, res-name=textHobbies, visibility=VISIBLE, width=391, height=51, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@2d90760, tag=null, root-is-layout-requested=false, has-input-connection=false, x=626.0, y=643.0, text=Hobbies: stealing socks, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +---->ActionBarContainer{id=2131230774, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=147, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@5c0debf, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +----->Toolbar{id=2131230772, res-name=action_bar, visibility=VISIBLE, width=1080, height=147, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@12ea7db, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +------>AppCompatTextView{id=-1, visibility=VISIBLE, width=219, height=71, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@6646278, tag=null, root-is-layout-requested=false, has-input-connection=false, x=189.0, y=38.0, text=Dogglers, input-type=0, ime-target=false, has-links=false}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=147, height=147, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@f8ead51, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=147, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@634a9b6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.287  8632  8654 E TestRunner: +----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8e5e6b7, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+08-01 14:14:31.287  8632  8654 E TestRunner: |
+08-01 14:14:31.288  8632  8654 E TestRunner: +->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=126, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@eb92e24, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=1794.0}
+08-01 14:14:31.288  8632  8654 E TestRunner: |
+08-01 14:14:31.288  8632  8654 E TestRunner: +->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=63, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@4bfcd8d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1736)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at com.example.dogglers.BaseTest.hasListItemContent(BaseTest.kt:58)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at com.example.dogglers.BaseTest.checkFirstPosition(BaseTest.kt:69)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at com.example.dogglers.VerticalListTests.vertical_scroll_content_at_first_position(VerticalListTests.kt:42)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+08-01 14:14:31.288  8632  8654 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2205)
+08-01 14:14:31.288  8632  8654 E TestRunner: ----- end exception -----
+08-01 14:14:31.288  8632  8654 I TestRunner: finished: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
